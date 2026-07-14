@@ -19,8 +19,6 @@ O meu nome é Alexandra Cardoso, tenho 19 anos e natural de Almada. Concluí o S
 
 <br/>
 <br/>
-<br/>
-<br/>
 
 ## Estatísticas
 <p>
