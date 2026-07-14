@@ -176,6 +176,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgr
     alt="GitHub Stats"
     height="200"
     style="padding-right: 10px;"
-    src = "https://github-stats-extended.vercel.app/api/top-langs?username=alexandra-cardoso&theme=tokyonight&layout=compact&custom_title=Tecnologias Usadas&langs_count=9"/>
+    src = "https://github-stats-extended.vercel.app/api/top-langs?username=alexandra-cardoso&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
 
 </p>
