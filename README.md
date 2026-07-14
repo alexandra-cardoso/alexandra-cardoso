@@ -13,157 +13,9 @@ O meu nome é Alexandra Cardoso, tenho 19 anos e natural de Almada. Concluí o S
 
 ## Linguagens e Ferramentas
 
-<img 
-align="left"
-alt="Java"
-title="Java"
-width=32px
-style="margin: 0 5px 10px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-
-<img 
-align="left"
-alt="Git"
-title="Git"
-width=32px
-style="margin: 0 5px 10px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-
-<img 
-align="left"
-alt="Bash"
-title="Bash"
-width=32px
-style="margin: 0 5px 10px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
-
-<img 
-align="left"
-alt="Prolog"
-title="Prolog"
-width=32px
-style="margin: 0 5px 10px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prolog/prolog-original.svg" />
-
-<img 
-align="left"
-alt="Scala"
-title="Scala"
-width=32px
-style="margin: 0 5px 10px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scala/scala-original.svg" />
-
-<img 
-align="left"
-alt="HTML"
-title="HTML"
-width=32px
-style="margin: 0 5px 10px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-
-<img 
-align="left"
-alt="CSS"
-title="CSS"
-width=32px
-style="margin: 0 5px 10px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-
-<img 
-align="left"
-alt="JavaScript"
-title="JavaScript"
-width=32px
-style="margin: 0 5px 10px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
-
-<img 
-align="left"
-alt="Nodejs"
-title="Nodejs"
-width=32px
-style="margin: 0 5px 10px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-
-<img 
-align="left"
-alt="Electron"
-title="Electron"
-width=32px
-style="margin: 0 5px 10px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" />
-
-<img 
-align="left"
-alt="Express"
-title="Express"
-width=32px
-style="margin: 0 5px 10px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
-
-<img 
-align="left"
-alt="Json"
-title="Json"
-width=32px
-style="margin: 0 5px 10px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-plain.svg" />
-
-<img 
-align="left"
-alt="C"
-title="C"
-width=32px
-style="margin: 0 5px 10px"
-src="https://skillicons.dev/icons?i=c" />
-
-<img 
-align="left"
-alt="Python"
-title="Python"
-width=32px
-style="margin: 0 5px 10px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-
-<img 
-align="left"
-alt="React"
-title="React"
-width=32px
-style="margin: 0 5px 10px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-
-<img 
-align="left"
-alt="Docker"
-title="Docker"
-width=32px
-style="margin: 0 5px 10px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" />
-
-<img 
-align="left"
-alt="Php"
-title="Php"
-width=32px
-style="margin: 0 5px 10px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-
-<img 
-align="left"
-alt="MariaDB"
-title="MariaDB"
-width=32px
-style="margin: 0 5px 10px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" />
-
-<img 
-align="left"
-alt="PostgreSQL"
-title="PostgreSQL"
-width=32px
-style="margin: 0 5px 10px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,git,bash,pr,scala,html,css,js,nodejs,electron,express,c,py,react,docker,php,mysql,postgres&perline=18" />
+</p>
 
 <br/>
 <br/>
@@ -176,6 +28,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgr
     alt="GitHub Stats"
     height="200"
     style="padding-right: 10px;"
-    src = "https://github-stats-extended.vercel.app/api/top-langs?username=alexandra-cardoso&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
+    src = "https://github-stats-extended.vercel.app/api/top-langs?username=alexandra-cardoso&theme=tokyonight&layout=compact&custom_title=Tecnologias%20Usadas&langs_count=9"/>
 
 </p>
