@@ -5,7 +5,7 @@
 O meu nome é Alexandra Cardoso, tenho 19 anos e natural de Almada. Concluí o Secundário na Escola Secundária Emídio Navarro, com o curso de Ciências e Tecnologias. Atualmente, estou a licenciar-me em Engenharia Informática no ISCTE-IUL. Estou sempre à procura de criar projetos novos e diferentes, usando a minha creatividade e senso comum, para criar projetos com real impacto.
 
 <p align="left">
-    <a href="linkedin.com/in/alexandra-cardoso-109816359">
+    <a href="https://linkedin.com/in/alexandra-cardoso-109816359">
         <img alt="linkedin" title="Checkout my Linkedin" src="https://custom-icon-badges.demolab.com/badge/Linkedin-blue.svg?logo=briefCase&logoColor=white&style=for-the-badge"
         />
     </a>
